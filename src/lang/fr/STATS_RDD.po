@@ -1,0 +1,223 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: STATS_RDD.R:81
+msgid "Regression Discontinuity Analysis"
+msgstr ""
+"Analyse de discontinuité de la régression"
+
+#: STATS_RDD.R:82
+msgid "Regression Discontinuity: Warnings"
+msgstr ""
+"Discontinuité de la régression : Avertissements"
+
+#: STATS_RDD.R:94
+msgid "The R %s package is required but could not be loaded."
+msgstr ""
+"Le pack R %s est requis mais n'a pas pu être chargé."
+
+#: STATS_RDD.R:168
+msgid "Dependent Variable"
+msgstr ""
+"Variable dépendante"
+
+#: STATS_RDD.R:169
+msgid "Running Variable"
+msgstr ""
+"Variable en cours"
+
+#: STATS_RDD.R:170
+msgid "Threshold"
+msgstr ""
+"Seuil"
+
+#: STATS_RDD.R:171
+msgid "Model Type"
+msgstr ""
+"Type de modèle"
+
+#: STATS_RDD.R:172
+msgid "Endogenous Treatment Variable"
+msgstr ""
+"Variable du traitement endogène"
+
+#: STATS_RDD.R:173
+msgid "Kernel"
+msgstr ""
+"Noyau"
+
+#: STATS_RDD.R:174
+msgid "Std. Error Type"
+msgstr ""
+"Type d'erreur standard"
+
+#: STATS_RDD.R:175
+msgid "Cluster Variable"
+msgstr ""
+"Variable de cluster"
+
+#: STATS_RDD.R:185
+#: STATS_RDD.R:188
+msgid "--None--"
+msgstr ""
+"--Aucun--"
+
+#: STATS_RDD.R:187
+msgid "Robust"
+msgstr ""
+"Robuste"
+
+#: STATS_RDD.R:193
+msgid "Values"
+msgstr ""
+"Valeurs"
+
+#: STATS_RDD.R:195
+msgid "Regression Discontinuity Summary"
+msgstr ""
+"Récapitulatif de discontinuité de la régression"
+
+#: STATS_RDD.R:197
+msgid "Results computed by R rdd package"
+msgstr ""
+"Résultats calculés à l'aide du pack R rdd"
+
+#: STATS_RDD.R:203
+msgid "Model could not be estimated"
+msgstr ""
+"Le modèle n'a pas pu être estimé."
+
+#: STATS_RDD.R:207
+#: STATS_RDD.R:248
+msgid "Bandwidth"
+msgstr ""
+"Largeur de bande"
+
+#: STATS_RDD.R:208
+msgid "Number of Cases"
+msgstr ""
+"Nombre d'observations"
+
+#: STATS_RDD.R:209
+msgid "Average Treatment\nEffect Estimate"
+msgstr ""
+"Estimation de l'effet\nde traitement moyen"
+
+#: STATS_RDD.R:209
+msgid "Wald Estimate"
+msgstr ""
+"Estimation de Wald"
+
+#: STATS_RDD.R:210
+#: STATS_RDD.R:244
+msgid "Std. Error"
+msgstr ""
+"Erreur std."
+
+#: STATS_RDD.R:210
+msgid "Z Value"
+msgstr ""
+"Valeur Z"
+
+#: STATS_RDD.R:210
+#: STATS_RDD.R:218
+#: STATS_RDD.R:246
+msgid "Sig."
+msgstr ""
+"Sig."
+
+#: STATS_RDD.R:211
+msgid "Coefficients"
+msgstr ""
+"Coefficients"
+
+#: STATS_RDD.R:218
+msgid "F"
+msgstr ""
+"F"
+
+#: STATS_RDD.R:218
+msgid "Numerator D.F."
+msgstr ""
+"Ddl du numérateur"
+
+#: STATS_RDD.R:218
+msgid "Denom. D.F."
+msgstr ""
+"Ddl du dénom."
+
+#: STATS_RDD.R:219
+msgid "F Statistics"
+msgstr ""
+"Statistiques F"
+
+#: STATS_RDD.R:226
+msgid "Outcome Variable Vs. Running Variable"
+msgstr ""
+"Variable de sortie et variable en cours"
+
+#: STATS_RDD.R:230
+msgid "Treatment Variable Vs. Running Variable"
+msgstr ""
+"Variable de traitement et variable en cours"
+
+#: STATS_RDD.R:239
+#: STATS_RDD.R:262
+msgid "McCrary Sorting Test"
+msgstr ""
+"Test de tri de McCrary"
+
+#: STATS_RDD.R:240
+#: STATS_RDD.R:264
+msgid "Running Variable: %s"
+msgstr ""
+"Variable en cours : %s"
+
+#: STATS_RDD.R:243
+msgid "Estimated Log Difference at Threshold (%s)"
+msgstr ""
+"Estimation de la différence log au seuil (%s)"
+
+#: STATS_RDD.R:245
+msgid "Z Statistic"
+msgstr ""
+"Statistiques Z"
+
+#: STATS_RDD.R:247
+msgid "Bin Size"
+msgstr ""
+"Taille de la classe"
+
+#: STATS_RDD.R:261
+msgid "Statistics"
+msgstr ""
+"Statistiques"
+
+#: STATS_RDD.R:300
+msgid "End of procedure"
+msgstr ""
+"Fin de la procédure"
+
+#: STATS_RDD.R:327
+msgid "Message Number"
+msgstr ""
+"Numéro de message"
+
+
