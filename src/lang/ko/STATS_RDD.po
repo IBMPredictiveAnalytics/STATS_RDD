@@ -1,0 +1,223 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: STATS_RDD.R:81
+msgid "Regression Discontinuity Analysis"
+msgstr ""
+"회귀 불연속 분석"
+
+#: STATS_RDD.R:82
+msgid "Regression Discontinuity: Warnings"
+msgstr ""
+"회귀 불연속: 경고"
+
+#: STATS_RDD.R:94
+msgid "The R %s package is required but could not be loaded."
+msgstr ""
+"R %s 패키지가 필요하지만 로드할 수 없습니다."
+
+#: STATS_RDD.R:168
+msgid "Dependent Variable"
+msgstr ""
+"종속변수"
+
+#: STATS_RDD.R:169
+msgid "Running Variable"
+msgstr ""
+"실행 중인 변수"
+
+#: STATS_RDD.R:170
+msgid "Threshold"
+msgstr ""
+"임계값"
+
+#: STATS_RDD.R:171
+msgid "Model Type"
+msgstr ""
+"모형 유형"
+
+#: STATS_RDD.R:172
+msgid "Endogenous Treatment Variable"
+msgstr ""
+"내생적 처리 변수"
+
+#: STATS_RDD.R:173
+msgid "Kernel"
+msgstr ""
+"커널"
+
+#: STATS_RDD.R:174
+msgid "Std. Error Type"
+msgstr ""
+"표준오차 유형"
+
+#: STATS_RDD.R:175
+msgid "Cluster Variable"
+msgstr ""
+"군집 변수"
+
+#: STATS_RDD.R:185
+#: STATS_RDD.R:188
+msgid "--None--"
+msgstr ""
+"--없음--"
+
+#: STATS_RDD.R:187
+msgid "Robust"
+msgstr ""
+"로버스트"
+
+#: STATS_RDD.R:193
+msgid "Values"
+msgstr ""
+"값"
+
+#: STATS_RDD.R:195
+msgid "Regression Discontinuity Summary"
+msgstr ""
+"회귀 불연속 요약"
+
+#: STATS_RDD.R:197
+msgid "Results computed by R rdd package"
+msgstr ""
+"R rdd 패키지에 의해 계산된 결과"
+
+#: STATS_RDD.R:203
+msgid "Model could not be estimated"
+msgstr ""
+"모형을 추정할 수 없습니다."
+
+#: STATS_RDD.R:207
+#: STATS_RDD.R:248
+msgid "Bandwidth"
+msgstr ""
+"대역폭"
+
+#: STATS_RDD.R:208
+msgid "Number of Cases"
+msgstr ""
+"케이스 수"
+
+#: STATS_RDD.R:209
+msgid "Average Treatment\nEffect Estimate"
+msgstr ""
+"평균 처리\n효과 추정값"
+
+#: STATS_RDD.R:209
+msgid "Wald Estimate"
+msgstr ""
+"Wald 추정값"
+
+#: STATS_RDD.R:210
+#: STATS_RDD.R:244
+msgid "Std. Error"
+msgstr ""
+"표준오차"
+
+#: STATS_RDD.R:210
+msgid "Z Value"
+msgstr ""
+"Z 값"
+
+#: STATS_RDD.R:210
+#: STATS_RDD.R:218
+#: STATS_RDD.R:246
+msgid "Sig."
+msgstr ""
+"TPL 유의확률"
+
+#: STATS_RDD.R:211
+msgid "Coefficients"
+msgstr ""
+"계수"
+
+#: STATS_RDD.R:218
+msgid "F"
+msgstr ""
+"F"
+
+#: STATS_RDD.R:218
+msgid "Numerator D.F."
+msgstr ""
+"분자 자유도"
+
+#: STATS_RDD.R:218
+msgid "Denom. D.F."
+msgstr ""
+"분모 자유도"
+
+#: STATS_RDD.R:219
+msgid "F Statistics"
+msgstr ""
+"F 통계량"
+
+#: STATS_RDD.R:226
+msgid "Outcome Variable Vs. Running Variable"
+msgstr ""
+"결과 변수 및 실행 중인 변수"
+
+#: STATS_RDD.R:230
+msgid "Treatment Variable Vs. Running Variable"
+msgstr ""
+"처리 변수 및 실행 중인 변수"
+
+#: STATS_RDD.R:239
+#: STATS_RDD.R:262
+msgid "McCrary Sorting Test"
+msgstr ""
+"McCrary 정렬 검정"
+
+#: STATS_RDD.R:240
+#: STATS_RDD.R:264
+msgid "Running Variable: %s"
+msgstr ""
+"실행 중인 변수: %s"
+
+#: STATS_RDD.R:243
+msgid "Estimated Log Difference at Threshold (%s)"
+msgstr ""
+"(%s)에서 추정된 로그 차이"
+
+#: STATS_RDD.R:245
+msgid "Z Statistic"
+msgstr ""
+"Z 통계량"
+
+#: STATS_RDD.R:247
+msgid "Bin Size"
+msgstr ""
+"구간 크기"
+
+#: STATS_RDD.R:261
+msgid "Statistics"
+msgstr ""
+"통계량2"
+
+#: STATS_RDD.R:300
+msgid "End of procedure"
+msgstr ""
+"프로시저 끝"
+
+#: STATS_RDD.R:327
+msgid "Message Number"
+msgstr ""
+"메시지 번호"
+
+
