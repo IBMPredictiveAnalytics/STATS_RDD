@@ -1,0 +1,223 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: STATS_RDD.R:81
+msgid "Regression Discontinuity Analysis"
+msgstr ""
+"非連續迴歸分析"
+
+#: STATS_RDD.R:82
+msgid "Regression Discontinuity: Warnings"
+msgstr ""
+"非連續迴歸：警告"
+
+#: STATS_RDD.R:94
+msgid "The R %s package is required but could not be loaded."
+msgstr ""
+"R %s 套件是必要套件，但無法載入。"
+
+#: STATS_RDD.R:168
+msgid "Dependent Variable"
+msgstr ""
+"依變數"
+
+#: STATS_RDD.R:169
+msgid "Running Variable"
+msgstr ""
+"執行中變數"
+
+#: STATS_RDD.R:170
+msgid "Threshold"
+msgstr ""
+"臨界值"
+
+#: STATS_RDD.R:171
+msgid "Model Type"
+msgstr ""
+"模型類型"
+
+#: STATS_RDD.R:172
+msgid "Endogenous Treatment Variable"
+msgstr ""
+"內生處理變數"
+
+#: STATS_RDD.R:173
+msgid "Kernel"
+msgstr ""
+"核心"
+
+#: STATS_RDD.R:174
+msgid "Std. Error Type"
+msgstr ""
+"標準誤類型"
+
+#: STATS_RDD.R:175
+msgid "Cluster Variable"
+msgstr ""
+"叢集變數"
+
+#: STATS_RDD.R:185
+#: STATS_RDD.R:188
+msgid "--None--"
+msgstr ""
+"--無--"
+
+#: STATS_RDD.R:187
+msgid "Robust"
+msgstr ""
+"穩健"
+
+#: STATS_RDD.R:193
+msgid "Values"
+msgstr ""
+"值"
+
+#: STATS_RDD.R:195
+msgid "Regression Discontinuity Summary"
+msgstr ""
+"非連續迴歸摘要"
+
+#: STATS_RDD.R:197
+msgid "Results computed by R rdd package"
+msgstr ""
+"由 R rdd 套件計算的結果"
+
+#: STATS_RDD.R:203
+msgid "Model could not be estimated"
+msgstr ""
+"無法估計模型"
+
+#: STATS_RDD.R:207
+#: STATS_RDD.R:248
+msgid "Bandwidth"
+msgstr ""
+"頻寬"
+
+#: STATS_RDD.R:208
+msgid "Number of Cases"
+msgstr ""
+"觀察值數目"
+
+#: STATS_RDD.R:209
+msgid "Average Treatment\nEffect Estimate"
+msgstr ""
+"平均值處理\n效應估計值"
+
+#: STATS_RDD.R:209
+msgid "Wald Estimate"
+msgstr ""
+"Wald 估計值"
+
+#: STATS_RDD.R:210
+#: STATS_RDD.R:244
+msgid "Std. Error"
+msgstr ""
+"標準誤"
+
+#: STATS_RDD.R:210
+msgid "Z Value"
+msgstr ""
+"Z 值"
+
+#: STATS_RDD.R:210
+#: STATS_RDD.R:218
+#: STATS_RDD.R:246
+msgid "Sig."
+msgstr ""
+"顯著性"
+
+#: STATS_RDD.R:211
+msgid "Coefficients"
+msgstr ""
+"係數"
+
+#: STATS_RDD.R:218
+msgid "F"
+msgstr ""
+"F"
+
+#: STATS_RDD.R:218
+msgid "Numerator D.F."
+msgstr ""
+"分子 D.F."
+
+#: STATS_RDD.R:218
+msgid "Denom. D.F."
+msgstr ""
+"分母 D.F."
+
+#: STATS_RDD.R:219
+msgid "F Statistics"
+msgstr ""
+"F 統計量"
+
+#: STATS_RDD.R:226
+msgid "Outcome Variable Vs. Running Variable"
+msgstr ""
+"結果變數及執行中變數"
+
+#: STATS_RDD.R:230
+msgid "Treatment Variable Vs. Running Variable"
+msgstr ""
+"處理變數及執行中變數"
+
+#: STATS_RDD.R:239
+#: STATS_RDD.R:262
+msgid "McCrary Sorting Test"
+msgstr ""
+"McCrary 排序檢定"
+
+#: STATS_RDD.R:240
+#: STATS_RDD.R:264
+msgid "Running Variable: %s"
+msgstr ""
+"執行中變數：%s"
+
+#: STATS_RDD.R:243
+msgid "Estimated Log Difference at Threshold (%s)"
+msgstr ""
+"臨界值上估計的對數差異 (%s)"
+
+#: STATS_RDD.R:245
+msgid "Z Statistic"
+msgstr ""
+"Z 統計量"
+
+#: STATS_RDD.R:247
+msgid "Bin Size"
+msgstr ""
+"Bin 大小"
+
+#: STATS_RDD.R:261
+msgid "Statistics"
+msgstr ""
+"統計量"
+
+#: STATS_RDD.R:300
+msgid "End of procedure"
+msgstr ""
+"程序的結尾"
+
+#: STATS_RDD.R:327
+msgid "Message Number"
+msgstr ""
+"訊息號碼"
+
+
