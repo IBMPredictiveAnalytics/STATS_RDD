@@ -1,0 +1,18 @@
+Name: STATS RDD
+Dialog-Specs: STATS_RDD.spd
+Command-Specs: STATS_RDD.xml
+Code-Files: STATS_RDD.R
+Misc-Files: extsyntax.css,markdown.html,IBMdialogicon.png
+Summary: Regression Discontinuity Analysis
+Description: This command estimates the effects of a treatment on an o
+ utput in a nonexperimental context.  The treatment is applied based o
+ n whether an observed assignment variable (also known as a running va
+ riable) exceeds a known threshold.
+Author: JKP, IBM SPSS
+Version: 1.0.4
+Product-Version: 18
+Date: 3/19/14
+Categories: statistics, regression, RDD
+Plugins: R
+R-Packages: rdd
+Translation-Catalogues: lang
