@@ -1,0 +1,223 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: STATS_RDD.R:81
+msgid "Regression Discontinuity Analysis"
+msgstr ""
+"Regressionsunstetigkeitsanalyse"
+
+#: STATS_RDD.R:82
+msgid "Regression Discontinuity: Warnings"
+msgstr ""
+"Regressionsunstetigkeit: Warnungen"
+
+#: STATS_RDD.R:94
+msgid "The R %s package is required but could not be loaded."
+msgstr ""
+"Das R %s-Paket ist erforderlich konnte aber nicht geladen werden."
+
+#: STATS_RDD.R:168
+msgid "Dependent Variable"
+msgstr ""
+"Abhängige Variable"
+
+#: STATS_RDD.R:169
+msgid "Running Variable"
+msgstr ""
+"Ausführungsvariable"
+
+#: STATS_RDD.R:170
+msgid "Threshold"
+msgstr ""
+"Schwellenwert"
+
+#: STATS_RDD.R:171
+msgid "Model Type"
+msgstr ""
+"Modelltyp"
+
+#: STATS_RDD.R:172
+msgid "Endogenous Treatment Variable"
+msgstr ""
+"Endogene Behandlungsvariable"
+
+#: STATS_RDD.R:173
+msgid "Kernel"
+msgstr ""
+"Kern"
+
+#: STATS_RDD.R:174
+msgid "Std. Error Type"
+msgstr ""
+"Standardfehlertyp"
+
+#: STATS_RDD.R:175
+msgid "Cluster Variable"
+msgstr ""
+"Clustervariable"
+
+#: STATS_RDD.R:185
+#: STATS_RDD.R:188
+msgid "--None--"
+msgstr ""
+"--Ohne--"
+
+#: STATS_RDD.R:187
+msgid "Robust"
+msgstr ""
+"Robust"
+
+#: STATS_RDD.R:193
+msgid "Values"
+msgstr ""
+"Werte"
+
+#: STATS_RDD.R:195
+msgid "Regression Discontinuity Summary"
+msgstr ""
+"Regressionsunstetigkeitszusammenfassung"
+
+#: STATS_RDD.R:197
+msgid "Results computed by R rdd package"
+msgstr ""
+"Durch das R rdd-Paket berechnete Ergebnisse"
+
+#: STATS_RDD.R:203
+msgid "Model could not be estimated"
+msgstr ""
+"Modell konnte nicht geschätzt werden"
+
+#: STATS_RDD.R:207
+#: STATS_RDD.R:248
+msgid "Bandwidth"
+msgstr ""
+"Bandbreite"
+
+#: STATS_RDD.R:208
+msgid "Number of Cases"
+msgstr ""
+"Anzahl der Fälle"
+
+#: STATS_RDD.R:209
+msgid "Average Treatment\nEffect Estimate"
+msgstr ""
+"Durchschnittsbehandlung\nEffektschätzung"
+
+#: STATS_RDD.R:209
+msgid "Wald Estimate"
+msgstr ""
+"Wald-Schätzung"
+
+#: STATS_RDD.R:210
+#: STATS_RDD.R:244
+msgid "Std. Error"
+msgstr ""
+"Standardfehler"
+
+#: STATS_RDD.R:210
+msgid "Z Value"
+msgstr ""
+"Z-Wert"
+
+#: STATS_RDD.R:210
+#: STATS_RDD.R:218
+#: STATS_RDD.R:246
+msgid "Sig."
+msgstr ""
+"Sig."
+
+#: STATS_RDD.R:211
+msgid "Coefficients"
+msgstr ""
+"Koeffizienten"
+
+#: STATS_RDD.R:218
+msgid "F"
+msgstr ""
+"F"
+
+#: STATS_RDD.R:218
+msgid "Numerator D.F."
+msgstr ""
+"Zähler D.F."
+
+#: STATS_RDD.R:218
+msgid "Denom. D.F."
+msgstr ""
+"Nenner D.F."
+
+#: STATS_RDD.R:219
+msgid "F Statistics"
+msgstr ""
+"F-Statistik"
+
+#: STATS_RDD.R:226
+msgid "Outcome Variable Vs. Running Variable"
+msgstr ""
+"Ergebnisvariable und Ausführungsvariable"
+
+#: STATS_RDD.R:230
+msgid "Treatment Variable Vs. Running Variable"
+msgstr ""
+"Behandlungsvariable und Ausführungsvariable"
+
+#: STATS_RDD.R:239
+#: STATS_RDD.R:262
+msgid "McCrary Sorting Test"
+msgstr ""
+"McCrary-Sortiertest"
+
+#: STATS_RDD.R:240
+#: STATS_RDD.R:264
+msgid "Running Variable: %s"
+msgstr ""
+"Ausführungsvariable: %s"
+
+#: STATS_RDD.R:243
+msgid "Estimated Log Difference at Threshold (%s)"
+msgstr ""
+"Geschätzte Logarithmusdifferenz bei Schwellenwert %s)"
+
+#: STATS_RDD.R:245
+msgid "Z Statistic"
+msgstr ""
+"Z-Statistik"
+
+#: STATS_RDD.R:247
+msgid "Bin Size"
+msgstr ""
+"Klassen-/Gruppengröße"
+
+#: STATS_RDD.R:261
+msgid "Statistics"
+msgstr ""
+"Statistik"
+
+#: STATS_RDD.R:300
+msgid "End of procedure"
+msgstr ""
+"Ende der Prozedur"
+
+#: STATS_RDD.R:327
+msgid "Message Number"
+msgstr ""
+"Nachrichtennummer"
+
+
