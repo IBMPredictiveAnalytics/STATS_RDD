@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<!-- saved from url=(0014)about:internet -->
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="x-ua-compatible" content="IE=9" >
+
+<title>STATS RDD Extension Command</title>
+
+<link rel="stylesheet" type="text/css" href="extsyntax.css" />
+
+
+
+
+
+</head>
+
+<body>
+<h1>STATS RDD Extension Command</h1>
+
+<p>Estimate a sharp or fuzzy regression discontinuity design</p>
+<div class="syntax">
+<p>STATS RDD DEPENDENT=<em>varname</em><sup>&#42;</sup> RUNNING=<em>varname</em><sup>&#42;</sup><br/>
+THRESHOLD=<em>value</em><sup>&#42;</sup> TREATMENT=<em>varname</em>
+INDEP=<em>variables</em> CLUSTER=<em>varname</em></p>
+
+<p>/OPTIONS KERNEL=TRIANGULAR<sup>&#42;&#42;</sup> or RECTANGULAR or EPANECHNIKIV
+or QUARTIC or TRIWEIGHT or TRICUBE or GAUSSIAN or
+COSINE<br/>
+BANDWIDTH=<em>list of values</em>
+SETYPE=HC1<sup>&#42;&#42;</sup> or HC3 or CONST or HC or HC0 or HC1 or HC2 or HC4
+or HC4m or HC5<br/>
+MCCRARY=YES<sup>&#42;&#42;</sup> or NO
+PLOT = YES<sup>&#42;&#42;</sup> or NO</p>
+
+<p>/HELP</p>
+
+<p><sup>&#42;</sup> Required<br/>
+<sup>&#42;&#42;</sup> Default</p>
+</div>
+<p>STATS RDD /HELP.  prints this information and does nothing else.</p>
+
+
+<pre class="example"><code>STATS RDD DEPENDENT=y RUNNING=x THRESHOLD=0 INDEP=cov 
+/OPTIONS BANDWIDTH=.4 .5 .7 .8 .9.
+</code></pre>
+
+<p><strong>DEPENDENT</strong> names the dependent or outcome variable.</p>
+
+<p><strong>RUNNING</strong> names the running or assignment variable.</p>
+
+<p><strong>THRESHOLD</strong> specifies the cutoff above which the treatment is given.</p>
+
+<p>If <strong>TREATMENT</strong> is not specified, the design is sharp; if a variable
+is specified, the design is fuzzy.</p>
+
+<p><strong>INDEP</strong> is a list of covariates.</p>
+
+<p><strong>CLUSTER</strong> specifies a variable whose values are cluster numbers within
+which the errors are assumed correlated.  If specified, robust
+standard errors are calculated regardless of the SETYPE setting.
+The R package documentation suggests that if the running variable
+is discrete that the data be clustered by its values.</p>
+
+<p><strong>KERNEL</strong> specifies the kernel to be used.</p>
+
+<p><strong>BANDWIDTH</strong> specifies a list of bandwidths.  If not specified,
+the bandwidth is calculated by the Imbens-Kalyanaraman method, and
+that is used along with half and double the value.</p>
+
+<p><strong>SETYPE</strong> specifies the robust standard error method to be used if
+not overridden by the use of CLUSTER.  CONST assumes constant
+variances while the others assume heteroscedasticity.  HC0
+is White&#39;s estimator.  The others are variations of it.</p>
+
+<p><strong>MCCRARY</strong>=YES produces the McCrary sorting test</p>
+
+<p><strong>PLOT</strong>=YES produces a plot of the outcome vs the running variable and,
+for fuzzy designs, a plot of the treatment vs the running variable.
+The plot setting also controls whether the McCrary test produces
+a plot.</p>
+
+<p>&copy; Copyright IBM Corp. 1989, 2014</p>
+
+</body>
+
+</html>
+
