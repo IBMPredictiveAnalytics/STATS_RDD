@@ -1,0 +1,223 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: STATS_RDD.R:81
+msgid "Regression Discontinuity Analysis"
+msgstr ""
+"Анализ неоднородности регрессии"
+
+#: STATS_RDD.R:82
+msgid "Regression Discontinuity: Warnings"
+msgstr ""
+"Неоднородность регрессии: Предупреждения"
+
+#: STATS_RDD.R:94
+msgid "The R %s package is required but could not be loaded."
+msgstr ""
+"Необходим пакет R %s, но его не удалось загрузить."
+
+#: STATS_RDD.R:168
+msgid "Dependent Variable"
+msgstr ""
+"Зависимая переменная"
+
+#: STATS_RDD.R:169
+msgid "Running Variable"
+msgstr ""
+"Рабочая переменная"
+
+#: STATS_RDD.R:170
+msgid "Threshold"
+msgstr ""
+"Пороговое значение"
+
+#: STATS_RDD.R:171
+msgid "Model Type"
+msgstr ""
+"Тип модели"
+
+#: STATS_RDD.R:172
+msgid "Endogenous Treatment Variable"
+msgstr ""
+"Переменная эндогенной обработки"
+
+#: STATS_RDD.R:173
+msgid "Kernel"
+msgstr ""
+"Ядро"
+
+#: STATS_RDD.R:174
+msgid "Std. Error Type"
+msgstr ""
+"Тип среднекв. ошибки"
+
+#: STATS_RDD.R:175
+msgid "Cluster Variable"
+msgstr ""
+"Кластерная переменная"
+
+#: STATS_RDD.R:185
+#: STATS_RDD.R:188
+msgid "--None--"
+msgstr ""
+"--Нет--"
+
+#: STATS_RDD.R:187
+msgid "Robust"
+msgstr ""
+"Робастная"
+
+#: STATS_RDD.R:193
+msgid "Values"
+msgstr ""
+"Значения"
+
+#: STATS_RDD.R:195
+msgid "Regression Discontinuity Summary"
+msgstr ""
+"Сводка неоднородности регрессии"
+
+#: STATS_RDD.R:197
+msgid "Results computed by R rdd package"
+msgstr ""
+"Результаты, вычисленные пакетом R rdd"
+
+#: STATS_RDD.R:203
+msgid "Model could not be estimated"
+msgstr ""
+"Не удалось оценить модель"
+
+#: STATS_RDD.R:207
+#: STATS_RDD.R:248
+msgid "Bandwidth"
+msgstr ""
+"Полоса пропускания"
+
+#: STATS_RDD.R:208
+msgid "Number of Cases"
+msgstr ""
+"Количество наблюдений"
+
+#: STATS_RDD.R:209
+msgid "Average Treatment\nEffect Estimate"
+msgstr ""
+"Средняя оценка\nэффектов обработки"
+
+#: STATS_RDD.R:209
+msgid "Wald Estimate"
+msgstr ""
+"Оценка Вальда"
+
+#: STATS_RDD.R:210
+#: STATS_RDD.R:244
+msgid "Std. Error"
+msgstr ""
+"Стд. ошибка"
+
+#: STATS_RDD.R:210
+msgid "Z Value"
+msgstr ""
+"Z-значение"
+
+#: STATS_RDD.R:210
+#: STATS_RDD.R:218
+#: STATS_RDD.R:246
+msgid "Sig."
+msgstr ""
+"Значимость"
+
+#: STATS_RDD.R:211
+msgid "Coefficients"
+msgstr ""
+"Коэффициенты"
+
+#: STATS_RDD.R:218
+msgid "F"
+msgstr ""
+"F"
+
+#: STATS_RDD.R:218
+msgid "Numerator D.F."
+msgstr ""
+"Ст. св. числителя"
+
+#: STATS_RDD.R:218
+msgid "Denom. D.F."
+msgstr ""
+"Знаменатель ст.св."
+
+#: STATS_RDD.R:219
+msgid "F Statistics"
+msgstr ""
+"F-статистики"
+
+#: STATS_RDD.R:226
+msgid "Outcome Variable Vs. Running Variable"
+msgstr ""
+"Выходная переменная против рабочей переменной"
+
+#: STATS_RDD.R:230
+msgid "Treatment Variable Vs. Running Variable"
+msgstr ""
+"Переменная обработки против рабочей переменной"
+
+#: STATS_RDD.R:239
+#: STATS_RDD.R:262
+msgid "McCrary Sorting Test"
+msgstr ""
+"Критерий сортировки Маккрэри"
+
+#: STATS_RDD.R:240
+#: STATS_RDD.R:264
+msgid "Running Variable: %s"
+msgstr ""
+"Рабочая переменная: %s"
+
+#: STATS_RDD.R:243
+msgid "Estimated Log Difference at Threshold (%s)"
+msgstr ""
+"Оцененная логарифмическая разница вблизи порога (%s)"
+
+#: STATS_RDD.R:245
+msgid "Z Statistic"
+msgstr ""
+"Z-статистика"
+
+#: STATS_RDD.R:247
+msgid "Bin Size"
+msgstr ""
+"Количество сегментов"
+
+#: STATS_RDD.R:261
+msgid "Statistics"
+msgstr ""
+"Статистику"
+
+#: STATS_RDD.R:300
+msgid "End of procedure"
+msgstr ""
+"Конец процедуры"
+
+#: STATS_RDD.R:327
+msgid "Message Number"
+msgstr ""
+"Номер сообщения"
+
+
