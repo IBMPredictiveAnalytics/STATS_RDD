@@ -1,0 +1,223 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: STATS_RDD.R:81
+msgid "Regression Discontinuity Analysis"
+msgstr ""
+"回帰分断デザイン"
+
+#: STATS_RDD.R:82
+msgid "Regression Discontinuity: Warnings"
+msgstr ""
+"回帰分断: 警告"
+
+#: STATS_RDD.R:94
+msgid "The R %s package is required but could not be loaded."
+msgstr ""
+"R %s パッケージが必要ですが、読み込むことができませんでした。"
+
+#: STATS_RDD.R:168
+msgid "Dependent Variable"
+msgstr ""
+"従属変数"
+
+#: STATS_RDD.R:169
+msgid "Running Variable"
+msgstr ""
+"実行変数"
+
+#: STATS_RDD.R:170
+msgid "Threshold"
+msgstr ""
+"しきい値"
+
+#: STATS_RDD.R:171
+msgid "Model Type"
+msgstr ""
+"モデルの種類"
+
+#: STATS_RDD.R:172
+msgid "Endogenous Treatment Variable"
+msgstr ""
+"内生変数"
+
+#: STATS_RDD.R:173
+msgid "Kernel"
+msgstr ""
+"カーネル"
+
+#: STATS_RDD.R:174
+msgid "Std. Error Type"
+msgstr ""
+"標準誤差タイプ"
+
+#: STATS_RDD.R:175
+msgid "Cluster Variable"
+msgstr ""
+"クラスタ変数"
+
+#: STATS_RDD.R:185
+#: STATS_RDD.R:188
+msgid "--None--"
+msgstr ""
+"--なし--"
+
+#: STATS_RDD.R:187
+msgid "Robust"
+msgstr ""
+"頑健"
+
+#: STATS_RDD.R:193
+msgid "Values"
+msgstr ""
+"値"
+
+#: STATS_RDD.R:195
+msgid "Regression Discontinuity Summary"
+msgstr ""
+"回帰不連続性の要約"
+
+#: STATS_RDD.R:197
+msgid "Results computed by R rdd package"
+msgstr ""
+"R rdd パッケージによって計算された結果"
+
+#: STATS_RDD.R:203
+msgid "Model could not be estimated"
+msgstr ""
+"モデルを推定できませんでした"
+
+#: STATS_RDD.R:207
+#: STATS_RDD.R:248
+msgid "Bandwidth"
+msgstr ""
+"帯域幅"
+
+#: STATS_RDD.R:208
+msgid "Number of Cases"
+msgstr ""
+"ケースの数"
+
+#: STATS_RDD.R:209
+msgid "Average Treatment\nEffect Estimate"
+msgstr ""
+"平均処理効果推定\n"
+
+#: STATS_RDD.R:209
+msgid "Wald Estimate"
+msgstr ""
+"Wald 推定"
+
+#: STATS_RDD.R:210
+#: STATS_RDD.R:244
+msgid "Std. Error"
+msgstr ""
+"標準誤差"
+
+#: STATS_RDD.R:210
+msgid "Z Value"
+msgstr ""
+"Z 値"
+
+#: STATS_RDD.R:210
+#: STATS_RDD.R:218
+#: STATS_RDD.R:246
+msgid "Sig."
+msgstr ""
+"有意"
+
+#: STATS_RDD.R:211
+msgid "Coefficients"
+msgstr ""
+"係数"
+
+#: STATS_RDD.R:218
+msgid "F"
+msgstr ""
+"F 値"
+
+#: STATS_RDD.R:218
+msgid "Numerator D.F."
+msgstr ""
+"分子の自由度"
+
+#: STATS_RDD.R:218
+msgid "Denom. D.F."
+msgstr ""
+"分母の自由度"
+
+#: STATS_RDD.R:219
+msgid "F Statistics"
+msgstr ""
+"F 統計量"
+
+#: STATS_RDD.R:226
+msgid "Outcome Variable Vs. Running Variable"
+msgstr ""
+"結果変数と実行変数"
+
+#: STATS_RDD.R:230
+msgid "Treatment Variable Vs. Running Variable"
+msgstr ""
+"処理変数と実行変数"
+
+#: STATS_RDD.R:239
+#: STATS_RDD.R:262
+msgid "McCrary Sorting Test"
+msgstr ""
+"McCrary 並べ替え検定"
+
+#: STATS_RDD.R:240
+#: STATS_RDD.R:264
+msgid "Running Variable: %s"
+msgstr ""
+"実行変数: %s"
+
+#: STATS_RDD.R:243
+msgid "Estimated Log Difference at Threshold (%s)"
+msgstr ""
+"しきい値 (%s) での推定された対数差分"
+
+#: STATS_RDD.R:245
+msgid "Z Statistic"
+msgstr ""
+"Z 統計量"
+
+#: STATS_RDD.R:247
+msgid "Bin Size"
+msgstr ""
+"ビンのサイズ"
+
+#: STATS_RDD.R:261
+msgid "Statistics"
+msgstr ""
+"統計量"
+
+#: STATS_RDD.R:300
+msgid "End of procedure"
+msgstr ""
+"手順の終わり"
+
+#: STATS_RDD.R:327
+msgid "Message Number"
+msgstr ""
+"メッセージ番号"
+
+
