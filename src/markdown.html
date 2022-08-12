@@ -47,14 +47,16 @@ PLOT = YES<sup>&#42;&#42;</sup> or NO</p>
 
 <p><strong>DEPENDENT</strong> names the dependent or outcome variable.</p>
 
-<p><strong>RUNNING</strong> names the running or assignment variable.</p>
+<p><strong>RUNNING</strong> names the running or assignment variable. It must
+have a scale measurement level.</p>
 
 <p><strong>THRESHOLD</strong> specifies the cutoff above which the treatment is given.</p>
 
 <p>If <strong>TREATMENT</strong> is not specified, the design is sharp; if a variable
 is specified, the design is fuzzy.</p>
 
-<p><strong>INDEP</strong> is a list of covariates.</p>
+<p><strong>INDEP</strong> is a list of covariates.
+They must have a scale measurement level.</p>
 
 <p><strong>CLUSTER</strong> specifies a variable whose values are cluster numbers within
 which the errors are assumed correlated.  If specified, robust

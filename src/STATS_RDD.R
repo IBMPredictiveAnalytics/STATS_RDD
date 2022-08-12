@@ -14,6 +14,7 @@
 
 # History
 # 13-mar-2014 Original Version
+# 11-aug-2022 check intervention variable measurement level
 
 
 helptext='STATS RDD DEPENDENT=varname RUNNING=varname
@@ -106,6 +107,11 @@ dordd = function(dep, running, threshold, indep=NULL, treatment=NULL,
     
     alldata = c(dep, running, indep, treatment, cluster)
     dta = spssdata.GetDataFromSPSS(alldata, missingValueToNA=TRUE, factorMode="levels")
+    if (any(sapply(dta[c(2:(2+length(indep)))], is.factor))) {
+      print('oops')
+      warns$warn("The intervention variable and covariates must have a scale measurement level", dostop=TRUE)
+
+    }
 
     if (is.null(cluster)) {
         clustersetting = NULL
