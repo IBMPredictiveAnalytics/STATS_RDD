@@ -1,4 +1,5 @@
 Name: STATS RDD
+Display-Name: Regression Discontinuity Analysis
 Dialog-Specs: STATS_RDD.spd,STATS_RDD.cfe
 Command-Specs: STATS_RDD.xml
 Code-Files: STATS_RDD.R
